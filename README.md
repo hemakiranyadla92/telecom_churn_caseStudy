@@ -1,4 +1,4 @@
-# telecom_churn_caseStudy
+# Telecom Churn Case Study
 
 We consider the customer lifecycle to consist of three stages:
 
